@@ -1,0 +1,56 @@
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.deps.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.runtimeconfig.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.AssemblyReference.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfoInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfo.cs
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.CoreCompileInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\refint\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.genruntimeconfig.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementLibrary\obj\Debug\net6.0\ref\SalesManagementLibrary.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.deps.json
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.runtimeconfig.json
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.pdb
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.AssemblyReference.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfoInputs.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfo.cs
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.CoreCompileInputs.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\refint\SalesManagementLibrary.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.pdb
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.genruntimeconfig.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\ref\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.AssemblyReference.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfoInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfo.cs
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.CoreCompileInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\refint\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.deps.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.runtimeconfig.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.genruntimeconfig.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\ref\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.deps.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.runtimeconfig.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\bin\Debug\net6.0\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.AssemblyReference.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfoInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.AssemblyInfo.cs
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.csproj.CoreCompileInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\refint\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\SalesManagementLibrary.genruntimeconfig.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementLibrary\obj\Debug\net6.0\ref\SalesManagementLibrary.dll

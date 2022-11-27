@@ -1,0 +1,288 @@
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.exe
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.deps.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.runtimeconfig.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.AssemblyReference.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmLogin.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.GenerateResource.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfoInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfo.cs
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CoreCompileInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\refint\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.genruntimeconfig.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\ref\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\appsettings.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmAdmin.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CopyComplete
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMember.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMemberManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderDetailManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\SalesManagementApplication\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmProductManagement.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.exe
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\appsettings.json
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.deps.json
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.runtimeconfig.json
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.pdb
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.AssemblyReference.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmAdmin.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmLogin.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMember.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMemberManagement.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderDetailManagement.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderManagement.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmProductManagement.resources
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.GenerateResource.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfoInputs.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfo.cs
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CoreCompileInputs.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CopyComplete
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\refint\SalesManagementApplication.dll
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.genruntimeconfig.cache
+D:\hoctap\laptrinh\c#\assignment2\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\ref\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.AssemblyReference.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmAdmin.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmLogin.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMember.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMemberManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderDetailManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmProductManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.GenerateResource.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfoInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfo.cs
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CoreCompileInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\refint\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.exe
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\appsettings.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.deps.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.runtimeconfig.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CopyComplete
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.genruntimeconfig.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\New\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\ref\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.exe
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\appsettings.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.deps.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.runtimeconfig.json
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\bin\Debug\net6.0-windows\SalesManagementLibrary.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.AssemblyReference.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmAdmin.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmLogin.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMember.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmMemberManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderDetailManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmOrderManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.frmProductManagement.resources
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.GenerateResource.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfoInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.AssemblyInfo.cs
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CoreCompileInputs.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.csproj.CopyComplete
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\refint\SalesManagementApplication.dll
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.pdb
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\SalesManagementApplication.genruntimeconfig.cache
+D:\FPT\Ky 5\PRN211\WorkPlaces\Project\PRN211-Sales-Management-Application\SalesManagementApplication\obj\Debug\net6.0-windows\ref\SalesManagementApplication.dll
